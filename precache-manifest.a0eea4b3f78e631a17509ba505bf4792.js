@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f3dcb6596e28fc4d9baee50f5493063",
+    "revision": "807d4d02c53e6bd128336f2b5ddc98e5",
     "url": "/index.html"
   },
   {
-    "revision": "53e0c7d8b04ed57639c8",
-    "url": "/static/css/main.ab867a8e.chunk.css"
+    "revision": "f7441816a73f29c6a3b7",
+    "url": "/static/css/main.2c6de5f0.chunk.css"
   },
   {
     "revision": "198089b4b9879caea97f",
     "url": "/static/js/2.85eeb087.chunk.js"
   },
   {
-    "revision": "53e0c7d8b04ed57639c8",
-    "url": "/static/js/main.ddf07a68.chunk.js"
+    "revision": "f7441816a73f29c6a3b7",
+    "url": "/static/js/main.f72e4c3a.chunk.js"
   },
   {
     "revision": "53532daeb69e4e7d5d9f",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
-  },
-  {
-    "revision": "103aa0e10a43e1cb4f284cfbe368d95c",
-    "url": "/static/media/animated_ashutosh.103aa0e1.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -222,6 +218,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "103aa0e10a43e1cb4f284cfbe368d95c",
+    "url": "/static/media/sreeji_pic.103aa0e1.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
